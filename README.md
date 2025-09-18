@@ -36,7 +36,7 @@ The dashboard visualizes key metrics across job roles, salary slabs, age groups,
 ---
 
 ## 📂 Files in This Repo
-- `hr_dashboard.pbix` – Power BI file
+- [`hr_dashboard.pbix`]() – Power BI file
 - `EmployeeAttrition_Cleaned.xlsx` – Cleaned dataset in Excel (demonstrates Excel skills) 
 - `dashboard.png` – Dashboard screenshot  
 - `README.md` – This file
