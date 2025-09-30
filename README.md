@@ -1,6 +1,6 @@
-# 📊 Employee Attrition Dashboard
+# Employee Attrition Dashboard
 
-## 🧩 Project Summary
+## Project Summary
 This project analyzes HR data to understand **employee attrition patterns** — specifically:
 - **Who is leaving**
 - **Why they’re leaving**
@@ -10,16 +10,16 @@ The dashboard visualizes key metrics across job roles, salary slabs, age groups,
 
 ---
 
-## 💡 Key Insights
-- 📌 Overall attrition rate: **16.12%**
-- 🧑‍💼 Highest attrition by role: **Sales Reps (39.8%)**
-- 💰 Highest attrition by salary slab: **< ₹5k (21.76%)**
-- 🏢 HR department has the highest attrition: **50%**
-- ⚠️ Low job satisfaction (2.73) and work-life balance (2.76) may be contributing factors
+## Key Insights
+- Overall attrition rate: **16.12%**
+- Highest attrition by role: **Sales Reps (39.8%)**
+- Highest attrition by salary slab: **< ₹5k (21.76%)**
+- HR department has the highest attrition: **50%**
+- Low job satisfaction (2.73) and work-life balance (2.76) may be contributing factors
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 - Power BI  
 - DAX (Calculated Fields)  
 - Excel (for data preprocessing)  
@@ -30,12 +30,12 @@ The dashboard visualizes key metrics across job roles, salary slabs, age groups,
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
 
 ---
 
-## 📂 Files in This Repo
+## Files in This Repo
 - [`hr_dashboard.pbix`](https://github.com/arushi813/employee-attrition-dashboard/blob/main/hr_dashboard.pbix) – Power BI file
 - `EmployeeAttrition_Cleaned.xlsx` – Cleaned dataset in Excel (demonstrates Excel skills) 
 - `dashboard.png` – Dashboard screenshot  
@@ -43,7 +43,7 @@ The dashboard visualizes key metrics across job roles, salary slabs, age groups,
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 If extended, future versions of this project could explore:
 - Time-based attrition trends
 - Predictive modeling for future attrition
@@ -51,5 +51,5 @@ If extended, future versions of this project could explore:
   
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/arushi-g-069176191) or check out more of my work!
